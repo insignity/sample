@@ -4,3 +4,4 @@ import '../generated/l10n.dart';
 
 part 'extensions.dart';
 part 'typedefs.dart';
+part 'constants.dart';
